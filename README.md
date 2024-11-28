@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/roanek123](https://github.com/roanek123)
 
-- 💬 Ask me about **YOLO models, Machine Learning models**
+- 💬 Ask me about **Java, Python, Machine Learning models**
 
 - 📫 How to reach me **roanek123@gmail.com**
 
